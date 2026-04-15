@@ -1,0 +1,6 @@
+// bibliotecas para instalar, use o comando pip install para baixar as bibliotecas
+requests>=2.31.0
+python-dotenv>=1.0.0
+schedule>=1.2.0
+matplotlib>=3.8.0
+typing-extensions>=4.0.0
