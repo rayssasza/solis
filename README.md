@@ -3,6 +3,13 @@
 
 Vou incluir mais informações aqui.
 
+### Organização da Arquitetura
+```
+src/
+├── main               # função principal
+     └──  ainda em desenvolvimento 
+```
+
 ## Instalação
 
 Instalar todas as dependencias do projeto 
@@ -14,7 +21,7 @@ pip install requeriments.txt
 
 ## Exemplo de uso
 
-Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
+Ainda escrevendo essa parte, não sei se vou incluir ela mesmo.
 
 
 ## Configuração para Desenvolvimento
