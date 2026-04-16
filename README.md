@@ -36,7 +36,7 @@ python smoke_test.py -full
 
 Ainda escrevendo essa parte.
 
-## Contributing
+## Como contribuir
 
 1. Faça o _fork_ do projeto (<https://github.com/rayssasza/solis/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/solis`)
