@@ -46,4 +46,4 @@ Ainda escrevendo essa parte.
 
 ## Template do README.md
 
-Esse README foi copiado a partir do template disponibilizado pelo projeto: https://github.com/dbader/readme-template
+Esse README foi copiado a partir do template disponibilizado pelo projeto: <https://github.com/dbader/readme-template>
